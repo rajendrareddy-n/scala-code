@@ -1,0 +1,7 @@
+Day1:
+-- Functional Programming
+-- Functional programming advantage.
+-- Imperative vs functional
+-- Tail Recursion
+-- Pure Functions
+

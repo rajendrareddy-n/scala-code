@@ -1,0 +1,9 @@
+-- Methods vs functions
+-- Methods to Functions conversion
+-- Unit function
+-- Function definition
+-- Default value parameters
+-- call By name parameters
+-- call By value parameters
+-- Higher order functions
+-- Closure
